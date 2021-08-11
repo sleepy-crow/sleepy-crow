@@ -3,7 +3,7 @@
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=noah172&show_icons=true&theme=vue-dark" />&nbsp;
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah172&count_private=true&show_icons=true&theme=vue-dark&layout=compact" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noah172&theme=vue-dark">
+<img with="616px" src="https://github-readme-streak-stats.herokuapp.com/?user=noah172&theme=vue-dark">
 
 <!--
 **Noah172/Noah172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
