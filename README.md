@@ -1,7 +1,7 @@
 # Joan Sebastian Garcia (noah172)
-## Software developer Unity |C#|Python|NodeJS
+## Software developer Unity|C#|Python|NodeJS
 
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=noah172&show_icons=true&theme=vue-dark" />
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=noah172&show_icons=true&theme=vue-dark" />&nbsp;
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah172&count_private=true&show_icons=true&theme=vue-dark&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=noah172&theme=vue-dark">
 
