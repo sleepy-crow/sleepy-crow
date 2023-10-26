@@ -1,5 +1,5 @@
 # Joan Sebastian Garcia (sleepy-crow)
-## Backend developer Unity|C#|Python|NodeJS
+## Unity|C#|AR/VR|Python|NodeJS
 
 <div align="center">
 
